@@ -1,4 +1,4 @@
-# Proyecto_Sprint_7
+# Calidad del vino
 
 El objetivo de esta aplicación es ofrecer una herramienta interactiva para analizar un conjunto de datos (Wine Quality Dataset) obtenido de la plataforma Kaggle (https://www.kaggle.com/datasets/yasserh/wine-quality-dataset).
 Este dataset contiene datos sobre las características físico-químicas de diferentes vinos y la calificación de calidad.
@@ -9,3 +9,4 @@ Esta app ofrece una herramienta visual sencilla para facilitar la comprensión d
 -Finalmente, un gráfico de dispersión que muestra la relación de la acidez volátil y la calidad. La visualización demuestra que un mayor nivel de acidez tiende a agradar menos, por ende, menor es el puntaje de calidad.
 
 Esta app puede servir como punto de partida para análisis más avanzados y proyectos orientados a la industria del vino.
+Vease también en Render: 
